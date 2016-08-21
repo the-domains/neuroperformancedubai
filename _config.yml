@@ -1,20 +1,4 @@
-name: NeuroPerformanceDubai
-favicon: null
-layout_spectrum: 0.20047437818720937
 typography_spectrum: 0.488580982433632
-title: NeuroPerformanceDubai
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -26,4 +10,21 @@ color:
   lightness: 0.08338111825287342
   saturation: 0.5069172927178442
   rhythmicContrast: 0.6504778338130563
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.20047437818720937
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: NeuroPerformanceDubai
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: NeuroPerformanceDubai
+description: 'LIGHTNING FAST CHANGES IN PERFORMANCE AND PAIN '
 purpose: []
